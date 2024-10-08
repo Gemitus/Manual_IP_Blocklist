@@ -4,7 +4,7 @@ Includes IPv4 Ranges from:
 
 In Fortinet dont forget to:
 
-config firewall policy
-edit id
-set match-vip enable
+<p>config firewall policy<br>
+edit id<br>
+set match-vip enable<br>
 end
